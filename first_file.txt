@@ -3,3 +3,4 @@
 newline to test git clean
 testing diff
 this line added on github.
+adding another line on github, this time there will be no merge conflict
