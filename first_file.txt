@@ -5,3 +5,4 @@ testing diff
 this line added on github.
 adding another line on github, this time there will be no merge conflict
 yet another line on github, getting used to what happens when I pull
+another line on github, I commit on github, when I pull remotely it makes me enter a message describing the merge
